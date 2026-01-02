@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kiko-mateus
 - 👀 I’m interested in robot
-- 🌱 I’m currently learning  C/C++,python,linear algebre,avdanced math
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning  C/C++,Linux,OS,DeepLearning.etc
+- 💞️ I’m looking to collaborate on (In fact I suck)
 - 📫 How to reach me kik0_mateus@163.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
